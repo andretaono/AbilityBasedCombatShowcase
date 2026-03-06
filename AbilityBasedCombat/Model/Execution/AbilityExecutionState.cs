@@ -2,7 +2,6 @@
 
 namespace Andre.AbilityBasedCombat.Model
 {
-
 	// Internal helper to accumulate execution state per ability execution.
 	internal sealed class AbilityExecutionState
 	{

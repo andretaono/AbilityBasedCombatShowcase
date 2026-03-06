@@ -3,8 +3,7 @@ using Andre.AbilityBasedCombat.Model;
 
 namespace Andre.Demo
 {
-
-	/// Decorator for IAbilityExecutor that logs execution results.
+	// Decorator for IAbilityExecutor that logs execution results.
 	public sealed class AbilityExecutorLoggingDecorator : IAbilityExecutor
 	{
 		private readonly IAbilityExecutor decoratee;

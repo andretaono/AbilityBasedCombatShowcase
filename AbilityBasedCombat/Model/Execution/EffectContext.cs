@@ -1,6 +1,5 @@
 ﻿namespace Andre.AbilityBasedCombat.Model
 {
-
 	// Context provided to each effect during application.
 	// Contains source, target, and the current power value.
 	public sealed class EffectContext

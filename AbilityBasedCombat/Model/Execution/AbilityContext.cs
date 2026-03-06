@@ -1,6 +1,5 @@
 ﻿namespace Andre.AbilityBasedCombat.Model
 {
-
 	// Minimal per-execution state.
 	// Represents the "source" of an ability execution.
 	// Context should remain explicit and minimal.

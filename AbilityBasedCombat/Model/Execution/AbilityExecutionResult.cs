@@ -2,7 +2,6 @@
 
 namespace Andre.AbilityBasedCombat.Model
 {
-
 	// Represents the result of executing an ability.
 	// Contains targets affected and total value applied.
 	public sealed class AbilityExecutionResult
